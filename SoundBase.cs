@@ -8,8 +8,8 @@ namespace PetFamily
     {
         public void PlaySound(int soundID)
         {
-            SoundMgr.Singleton.Play2DSound(soundID);
-            SoundMgr.Singleton.Play2DSound(soundID); 22222
+            SoundMgr.Singleton.Play2DSound(soundID); 
+            SoundMgr.Singleton.Play2DSound(soundID); 22222  
         }
     }
 }
